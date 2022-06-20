@@ -1,0 +1,1 @@
+Sitemap: https://eritools.github.io/blog_project/sitemap.xml
